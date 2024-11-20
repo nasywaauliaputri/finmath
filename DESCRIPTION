@@ -1,0 +1,11 @@
+Package: finmath
+Type: Package
+Title: Financial Mathematics Calculations
+Version: 0.1.0
+Author: Kelompok 9
+Maintainer: Kelompok 9 <khairunnisahayyu@gmail.com>
+Description: A package for common financial mathematics calculations such as compound interest, present value, future value, and ROI.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true 
+RoxygenNote: 7.3.1
